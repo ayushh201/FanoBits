@@ -7,8 +7,11 @@ FanoBits is a powerful text compression tool developed using the Shannon-Fano co
 ## Features
 
 **High Compression Efficiency:** Utilizes the Shannon-Fano algorithm to achieve substantial reduction in file size.
+
 **Lossless Compression:** Ensures that the original text can be perfectly reconstructed from the compressed data.
+
 **Fast Performance:** Implemented in C++ for optimal speed and performance.
+
 **User-Friendly Interface:** Simple command-line interface for ease of use.
 
 ## How it Works
@@ -18,8 +21,11 @@ The Shannon-Fano algorithm is a classic entropy encoding technique used for loss
 ## Applications
 
 **Data Storage:** Reduces the amount of storage space required for text files.
+
 **Data Transmission:** Decreases the bandwidth needed for transmitting text files over the network.
+
 **Archiving:** Efficiently archives large collections of text documents.
+
 **Embedded Systems:** Suitable for systems with limited memory and storage resources.
 
 ## Contributing
