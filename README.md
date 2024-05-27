@@ -1,4 +1,5 @@
 # FanoBits
+FanoBits is a powerful text compression tool developed using the Shannon-Fano compression algorithm, implemented in C++.
 
 ## Overview
 
